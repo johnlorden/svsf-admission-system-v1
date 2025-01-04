@@ -20,13 +20,14 @@
     "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-select": "^1.2.2",
     "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-toast": "^1.2.4",
     "bcryptjs": "^2.4.3",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "date-fns": "^2.30.0",
     "handlebars": "^4.7.7",
     "lucide-react": "^0.263.1",
-    "next": "13.4.12",
+    "next": "^13.5.8",
     "next-auth": "^4.22.3",
     "nodemailer": "^6.9.4",
     "pdfkit": "^0.13.0",
@@ -54,4 +55,3 @@
     "typescript": "5.1.6"
   }
 }
-
